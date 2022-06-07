@@ -1,0 +1,1 @@
+The Terraform configuration in this directory is for reference from part 1 of the HashiConf EU 2022 virtual lab. You can find the most up to date configuration at https://github.com/hashicorp/learn-vault-migrate-hcp

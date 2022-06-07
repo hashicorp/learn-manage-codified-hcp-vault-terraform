@@ -10,3 +10,7 @@ terraform {
 provider "hcp" {
   # Configuration options
 }
+
+provider "time" {
+  # Configuration options
+}
