@@ -1,3 +1,6 @@
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MPL-2.0
+
 variable "cloud_provider" {
   description = "The cloud provider of the HCP HVN and Vault cluster."
   type        = string
