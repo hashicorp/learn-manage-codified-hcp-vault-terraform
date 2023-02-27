@@ -1,3 +1,6 @@
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MPL-2.0
+
 output "primary_vault_public_endpoint_url" {
   value       = hcp_vault_cluster.primary_cluster.vault_public_endpoint_url
   description = "The public IP address of the cluster."
